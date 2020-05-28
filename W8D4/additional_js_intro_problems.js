@@ -89,7 +89,13 @@ console.log('\n\n');
 
 /**
  * TODO Phase III: Function Invocation
- * 
+ * Let's create a function called paradeHelper that we'll use to have an
+ * elephant parade.
+ * It should take a single elephant as an argument;
+ * this way, we can pass it as a callback to forEach when called on our herd.
+ * Make sure to store it as a property on the Elephant object.
+ * You can populate it with any console.log statement to build your parade
+ * (e.g. "___ is trotting by!" OR "___ is parading by!").
  */
 
 console.log('Phase III: Function Invocation\n');
